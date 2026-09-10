@@ -1,0 +1,467 @@
+- repo: alpine_3_17
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r4
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r6
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r6
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r6
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r6
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r8
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r8
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r8
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r8
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r9
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r9
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r9
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r9
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r10
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r10
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal
+  visiblename: py3-pywal
+  version: 3.3.0
+  origversion: 3.3.0-r10
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: py3-pywal
+  binname: py3-pywal-pyc
+  visiblename: py3-pywal-pyc
+  version: 3.3.0
+  origversion: 3.3.0-r10
+  status: outdated
+  summary: Precompiled Python bytecode for py3-pywal
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - MIT
+- repo: aosc
+  srcname: app-utils/pywal
+  binname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  summary: A tool that generates a color palette from the dominant colors in an image
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: python-pywal
+  binname: python-pywal
+  visiblename: python-pywal
+  version: 3.3.0
+  origversion: 3.3.0-11
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: pywal-git
+  binname: pywal-git
+  visiblename: pywal-git
+  version: 3.3.0.r134.g236aa48
+  origversion: 3.3.0.r134.g236aa48-3
+  status: rolling
+  summary: Generate and change color-schemes on the fly.
+  maintainers:
+    - eclairevoyant@aur
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: python-pywal
+  binname: python-pywal
+  visiblename: python-pywal
+  version: 3.3.0
+  origversion: 3.3.0-11
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: graphics/pywal
+  binname: py312-pywal
+  visiblename: graphics/pywal
+  version: 3.3.0
+  origversion: 3.3.0_3
+  status: outdated
+  summary: Generate and change color-schemes on the fly
+  maintainers:
+    - dtxdf@freebsd.org
+  categories:
+    - graphics
+- repo: gnuguix
+  srcname: python-pywal
+  binname: python-pywal
+  visiblename: python-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Color palette generator and applicator
+- repo: nix_stable_24_05
+  srcname: python311Packages.pywal
+  visiblename: python3.11-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python311Packages
+- repo: nix_stable_24_05
+  srcname: python312Packages.pywal
+  visiblename: python3.12-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_24_05
+  srcname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: python311Packages.pywal
+  visiblename: python3.11-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python311Packages
+- repo: nix_stable_24_11
+  srcname: python312Packages.pywal
+  visiblename: python3.12-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_25_05
+  srcname: python312Packages.pywal
+  visiblename: python3.12-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_25_05
+  srcname: python313Packages.pywal
+  visiblename: python3.13-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_stable_25_05
+  srcname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: python313Packages.pywal
+  visiblename: python3.13-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_stable_25_11
+  srcname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: python312Packages.pywal
+  visiblename: python3.12-pywal
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3
+  maintainers:
+    - fresheyeball@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: pypi
+  srcname: pywal
+  binname: pywal
+  visiblename: pywal
+  version: 3.8.15
+  origversion: null
+  status: newest
+  summary: Generate and change color-schemes on the fly
+  maintainers:
+    - dylan.araps@gmail.com
+- repo: slackbuilds
+  srcname: python/pywal
+  visiblename: python/pywal
+  version: 3.1.0
+  origversion: null
+  status: outdated
+  categories:
+    - python
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: pywal
+  binname: pywal
+  visiblename: pywal
+  version: 3.3.0
+  origversion: 3.3.0_8
+  status: outdated
+  summary: Generate and change colorschemes on the fly
+  maintainers:
+    - xyuusha@paranoici.org
+  licenses:
+    - MIT
