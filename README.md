@@ -24,7 +24,12 @@ x install pywal
 - **Latest**: `3.3.0` (2019-01-21)
 - **Last commit**: 2021-09-09
 - **Assets in release**: 1
-- **Published**: 2019-01-21T06:18:21Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [3.3.0.tar.gz.asc](https://github.com/dylanaraps/pywal/releases/download/3.3.0/3.3.0.tar.gz.asc) | 488 B | `other` |
 
 ## Popularity
 
@@ -69,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for pywal lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pywal` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pywal.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pywal.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:24:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:27Z._
